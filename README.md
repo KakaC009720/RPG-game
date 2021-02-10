@@ -1,9 +1,11 @@
 # RPG-game
 RPG game made by C
 
+
 /*主程式中需開啟另外兩個.exe檔，(pushbox.exe與soap.exe)，
 因為路徑設定的原因，請將所有檔案一併放入命名為"TermProject"的資料夾，
 並將資料夾放在C槽最外層，以確保程式能順利運行，謝謝！*/
+
 
 *簡介 (Introduction)
 
@@ -13,6 +15,8 @@ RPG game made by C
 
 我在此遊戲中也加入了遊戲的經典元素-彩蛋，將他藏在遊戲地圖中，等待玩家去發掘。
  
+ 
+ 
 *程式規畫 (Program Plan)
 
 1.	一開始，先呈現遊戲封面
